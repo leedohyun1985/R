@@ -1,0 +1,28 @@
+20210214 
+
+○ What is R
+R은 무엇인가
+
+R is a popular programming language used for statistical computing and graphical presentation.
+R은 통계적 컴퓨팅과 그래픽 표현에 사용되는 유명한 프로그래밍 언어이다.
+Its most common use is to analyze and visualize data.
+가장 일반적인 용도는 데이터를 분석하고 시각화하는 것이다.
+
+
+○ Why Use R?
+왜 R을 사용하는가?
+
+It is a great resource for data analysis, data visualization, data science and machine learning
+데이터 분석, 데이터 시각화, 데이터 과학, 기계학습을 위한 훌륭한 리소스이다.
+It provides many statistical techniques (such as statistical tests, classification, clustering and data reduction)
+다양한 통계 기법(통계적 테스트들, 분류, 클러스터링, 데이터 압축 등)을 제공한다.
+It is easy to draw graphs in R, like pie charts, histograms, box plot, scatter plot, etc++
+R에서 파이차트, 히스토그램, 박스플롯, 스캐터 플롯(산점도) 등의 그래프를 그리기 쉽다.
+It works on different platforms (Windows, Mac, Linux)
+다양한 플랫폼(윈도우, 맥, 리눅스)에서 작동한다.
+It is open-source and free
+오픈소스이고, 무료이다.
+It has a large community support
+큰 커뮤니티의 지원이 있다.
+It has many packages (libraries of functions) that can be used to solve different problems
+다양한 문제 해결에 사용할 수 있는 많은 패키지(함수들의 라이브러리)가 있다.
