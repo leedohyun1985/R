@@ -38,3 +38,16 @@ It has many packages (libraries of functions) that can be used to solve differen
 - 변수명은 대소문자 구분을 함, 문자로 시작해야하고 .(period)로 시작하면 숫자값은 입력 불가
 - 언더스코어, 숫자로는 이름 시작 불가
 - 예약어들 (TRUE, FALSE, NULL, if...) 변수명으로 사용 불가
+
+
+20210215
+○ R Data Types
+
+기본적인 변수 종류는 
+numeric - (10.5, 55, 787)
+integer - (1L, 55L, 100L, where the letter "L" declares this as an integer)
+complex - (9 + 3i, where "i" is the imaginary part)
+character (a.k.a. string) - ("k", "R is exciting", "FALSE", "11.5")
+logical (a.k.a. boolean) - (TRUE or FALSE)
+
+class() 라는 함수로 변수의 타입을 확인 가능
