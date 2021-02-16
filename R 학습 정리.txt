@@ -51,3 +51,29 @@ character (a.k.a. string) - ("k", "R is exciting", "FALSE", "11.5")
 logical (a.k.a. boolean) - (TRUE or FALSE)
 
 class() 라는 함수로 변수의 타입을 확인 가능
+
+20210216
+● R Numbers
+
+R에서 숫자 타입은 세가지 있음
+numeric
+integer
+complex
+
+○ Numeric
+A numeric data type is the most common type in R, and contains any number with or without a decimal, like: 10.5, 55, 787:
+
+○ Integer
+Integers are numeric data without decimals. This is used when you are certain that you will never create a variable that should contain decimals. To create an integer variable, you must use the letter L after the integer value:
+
+○ Complex 복소수형
+A complex number is written with an "i" as the imaginary part:
+허수인 i와 함께 쓰인다.
+
+○ Type Conversion 형변환
+You can convert from one type to another with the following functions:
+다음 함수로 숫자의 타입을 변환할 수 있다.
+
+as.numeric()
+as.integer()
+as.complex()
