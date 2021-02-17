@@ -77,3 +77,25 @@ You can convert from one type to another with the following functions:
 as.numeric()
 as.integer()
 as.complex()
+
+20210217
+● R Math
+○ Simple Math
+
+○ Built-in Math Functions
+max(5, 10, 15)
+
+min(5, 10, 15)
+
+○ sqrt() 제곱근
+sqrt(16)
+
+○ abs() 절대값
+abs()
+
+○ ceiling() and floor()
+
+올림 내림
+ceiling(1.4)
+
+floor(1.4)
